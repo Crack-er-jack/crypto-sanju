@@ -4,7 +4,6 @@ import datetime as dt
 import numpy as np
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
-import time
 from crypto_coin import Coin
 import data_plot
 
