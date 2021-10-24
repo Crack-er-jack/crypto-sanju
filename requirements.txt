@@ -3,6 +3,4 @@ pandas
 datetime
 numpy
 plotly
-crypto_coin
-data_plot
 cbpro
