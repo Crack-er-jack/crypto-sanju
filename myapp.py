@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import datetime as dt
 import numpy as np
+import time
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
 from crypto_coin import Coin
