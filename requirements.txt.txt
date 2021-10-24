@@ -1,0 +1,9 @@
+streamlit
+pandas
+datetime
+numpy
+plotly
+time
+crypto_coin
+data_plot
+cbpro
